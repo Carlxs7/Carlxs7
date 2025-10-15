@@ -4,7 +4,7 @@
 <table>
   
 <td>
-<img src="https://github.com/user-attachments/assets/f2d733d3-f202-40fa-a2c1-b005c6eeffa1" width="400"/>
+<img src="https://github.com/user-attachments/assets/f2d733d3-f202-40fa-a2c1-b005c6eeffa1" width="300"/>
 </td>
   
 <td>
